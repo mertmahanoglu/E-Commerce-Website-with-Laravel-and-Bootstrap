@@ -18,3 +18,5 @@ Bunları yaptıktan sonra proje 8000 portunda çalışıcaktır.
 * Siparişlerim sayfasında ise önceden verdiğiniz siparişlerin bilgilerini görebilirsiniz.
 
 # Ekran Görüntüleri
+![login](https://user-images.githubusercontent.com/72344057/117614555-2380da80-b171-11eb-89ba-d982177a84dd.png)
+![product](https://user-images.githubusercontent.com/72344057/117614580-2bd91580-b171-11eb-96cb-b00d282885ee.png)
