@@ -11,8 +11,10 @@ Bu proje benzer alış-veriş sitelerinin temel fonksiyonlarını yerine getirme
 
 Bunları yaptıktan sonra proje 8000 portunda çalışıcaktır.
 
-#Kullanım
+# Kullanım
 * Uygulamanın anasayfasında 8 adet ürün listelenmektedir. Listelenen ürünlerin üzerine tıklandığında aynı sayfada ürün hakkında detaylı bilgiler görünür. Detay sayfasından veya anasayfadan ürünler sepete eklenebilir.
 * Ürünler sayfası bütün ürünleri listelemektedir. Bu sayfada 20 adet ürün bulunmaktadır.
 * Bilgilerim sayfasında kendi bilgilerinizi görebilir ve güncelleyebilirsiniz. Aynı zamanda hesabınızı dondurup, şifre değiştirebilirsiniz.
 * Siparişlerim sayfasında ise önceden verdiğiniz siparişlerin bilgilerini görebilirsiniz.
+
+# Ekran Görüntüleri
